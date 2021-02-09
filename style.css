@@ -1,0 +1,36 @@
+.main-container{
+    padding: 100px;
+}
+.card-style{
+    margin-right: 100px;
+    max-width: 18rem;
+}
+.input-field{
+    padding-bottom: 70px
+}
+#btnid{
+    border-radius: 25px;
+    padding: 20px 20px;
+}
+body{
+    background-color: #13141b;
+    background-size: 100%;
+    background-position: top;
+}
+.style{
+    padding-top: 100px;
+    padding-left: 250px;
+}
+.form-control{
+    background-color:rgba(255, 255, 255, 0.2);
+    padding: 22px;
+    margin-left: 25px;
+    border: none;
+    border-radius: 25px;
+}
+
+h1{
+    padding-left: 30%;
+    font-size: 100px;
+    color: lightgreen;
+}
